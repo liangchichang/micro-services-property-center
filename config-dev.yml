@@ -1,4 +1,2 @@
-test: true,
-lcc:
-  age: 15
-
+test: false,
+lcc-full-name: liangchichang
