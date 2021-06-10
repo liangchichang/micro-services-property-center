@@ -1,2 +1,3 @@
 test: false,
 lcc-full-name: liangchichang
+logging.path: ./logs
